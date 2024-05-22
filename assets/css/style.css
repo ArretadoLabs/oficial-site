@@ -162,9 +162,9 @@ a:hover {
 
 .hero__scroll-btn {
     font-size: larger;
-    position: fixed; /*absolute*/
+    position: absolute;
     left: 50%;
-    bottom: 30px;
+    bottom: 45px;
     transform: translateX(-50%);
     z-index: 1;
     color: var(--bs-light);
@@ -290,7 +290,7 @@ a:hover {
 .section-services .single-service {
     position: relative;
     margin-top: 30px;
-    background-color: #ffffff;
+    background-color: #000000;
     border-radius: 10px;
     padding: 40px 30px;
     overflow: hidden;
@@ -375,7 +375,7 @@ a:hover {
 }
 
 .section-services .single-service:hover a {
-    color: #fff;
+    color: #000000;
 }
 
 .section-services .single-service a:after {
