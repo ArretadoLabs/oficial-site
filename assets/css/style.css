@@ -162,7 +162,7 @@ a:hover {
 
 .hero__scroll-btn {
     font-size: larger;
-    position: absolute;
+    position: fixed; /*absolute*/
     left: 50%;
     bottom: 30px;
     transform: translateX(-50%);
