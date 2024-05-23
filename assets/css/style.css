@@ -1,3 +1,4 @@
+
 :root {
     --primary-color: #0a1118;
     --primary-color-highlight: #233D54;
@@ -156,6 +157,7 @@ a:hover {
     z-index: 1;
 }
 
+
 .hero__content-width {
     max-width: 540px;
 }
@@ -239,7 +241,7 @@ a:hover {
 }
 
 .section-services {
-    font-family: "Poppins", sans-serif;
+    font-family: 'Arimo', sans-serif; /*Poppins*/
     background-color: #001736;
     color: #ffffff;
     padding-top: 115px;
