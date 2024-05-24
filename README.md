@@ -22,6 +22,19 @@ Repositório do site oficial da empresa arretados labs
 - [x] CDN JS
 - [x] Google Fonts
 
+## Link do domínio oficial do site
+https://arretadolabs.github.io/oficial-site/
 
+## Ferramentas utilizadas
 
+| Dados      | Descrição |
+| ----------- | ----------- |
+| IDE:        | Visual Studio code |
 
+### Extensões do VS Code
+- [x] Live server
+- [x] Mobile view
+- [x] Material icon Theme
+- [x] Code Runner
+
+##
